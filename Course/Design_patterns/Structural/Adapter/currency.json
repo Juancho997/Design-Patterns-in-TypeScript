@@ -1,0 +1,8 @@
+{
+    "currencies": {
+        "CAD": {
+            "name": "Canadian dollar",
+            "symbol": "$"
+        }
+    }
+}
